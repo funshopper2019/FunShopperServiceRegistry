@@ -1,0 +1,16 @@
+{
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ],
+  "env": {
+  },
+  "formation": {
+  },
+  "name": "FunShopperServiceRegistry",
+  "scripts": {
+  },
+  "stack": "heroku-18"
+}
